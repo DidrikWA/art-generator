@@ -10,6 +10,7 @@ Welcome to the art generator! Please specify a color: blue
 ```
 art.png has been saved to your file system!
 ```
+Result:
 
 ![](art.png)
 
